@@ -1,6 +1,6 @@
-# OpenBusinessApps
+# Open Business Apps
 
-**About OpenBusinessApps**
+**About Open Business Apps**
 
 **OpenBusinessApps** is an open-source organization dedicated to collaboration around existing ERPs and business applications. We bring together developers, users, and enthusiasts to contribute to open-source projects like **Axelor**, **Odoo**, **Dolibarr**, and other popular ERP solutions.
 Our goal is to help the community improve their business management tools. We promote interoperability and customization of ERPs to better meet the needs of businesses of all sizes.
@@ -79,14 +79,12 @@ We look forward to seeing you join our community of contributors! If you want to
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## À propos de 
-
-**OpenBusinessApps**
+**A propos**
 
 **OpenBusinessApps** est une organisation open-source dédiée à la collaboration autour des ERP existants et des applications business. Nous rassemblons des développeurs, des utilisateurs et des passionnés pour contribuer à des projets open-source tels que **Axelor**, **Odoo**, **Dolibarr**, et d'autres solutions ERP populaires. 
 Notre objectif est d'aider la communauté à améliorer ses outils de gestion d'entreprise. Nous favorisons l'interopérabilité et la personnalisation des ERP pour qu'ils répondent mieux aux besoins des entreprises de toutes tailles.
 **OpenBusinessApps** est une plateforme collaborative, indépendante des sociétés créatrices de ces ERP, où la communauté a la main sur les contributions et le développement.
----
+
 
 ## Notre Mission
 
