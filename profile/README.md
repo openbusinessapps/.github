@@ -65,7 +65,7 @@ We encourage a respectful, inclusive, and collaborative environment. To ensure a
 
 **Licenses**
 
-All projects under the **OpenBusinessApps** organization are licensed under an open-source license (typically [MIT License](https://opensource.org/licenses/MIT), but each repository may specify its own license). Please check the documentation of each repository for details.
+All projects under the **OpenBusinessApps** organization are licensed under an open-source license (typically [GNU GPL License](https://www.gnu.org/licenses/licenses.en.html#GPL), but each repository may specify its own license). Please check the documentation of each repository for details.
 
 
 **Join the Community**
@@ -96,7 +96,7 @@ Notre mission est de :
 - Créer des ressources et des outils pour simplifier le développement et la personnalisation des ERP.
 - Encourager la collaboration entre différentes communautés d'utilisateurs et de développeurs d'ERP.
 
----
+
 ## Pourquoi OpenBusinessApps ?
 
 Les ERP existants comme **Axelor**, **Odoo**, **Dolibarr**, et d'autres sont puissants, mais souvent, chaque entreprise a des besoins spécifiques qui ne sont pas toujours couverts par les fonctionnalités de base. En collaborant au sein de **OpenBusinessApps**, nous voulons :
@@ -108,7 +108,6 @@ Les ERP existants comme **Axelor**, **Odoo**, **Dolibarr**, et d'autres sont pui
 
 Nous croyons que la collaboration ouverte est la meilleure manière de rendre les ERP plus accessibles, flexibles et puissants pour toutes les entreprises.
 
----
 
 ## Nos Projets
 
@@ -119,8 +118,6 @@ Sous l'organisation **OpenBusinessApps**, nous soutenons les contributions aux p
 - **odoo-contrib** : Contributions pour Odoo, incluant des modules, des correctifs et des outils.
 - **dolibarr-modules** : Développement de modules pour Dolibarr ERP.
 - **erp-compatibility** : Outils et ressources pour améliorer l'interopérabilité entre différents ERP.
-
----
 
 
 ## Comment Contribuer ?
@@ -142,16 +139,14 @@ Si vous avez une expertise dans un ERP particulier, vous pouvez contribuer en am
 ### 5. **Discussions et support**
 Rejoignez nos discussions sur [GitHub Discussions](https://github.com/OpenBusinessApps/discussions) pour poser des questions, partager des idées, ou aider d'autres utilisateurs et contributeurs.
 
----
 
 ## Code de conduite
-
 Nous encourageons un environnement respectueux, inclusif et collaboratif. Pour assurer un comportement approprié dans la communauté, nous avons mis en place un [Code de conduite](CODE_OF_CONDUCT.md). Merci de le lire et de l'adhérer.
 
----
+
+## Licences
+Tous les projets sous l'organisation **OpenBusinessApps** sont sous une licence open-source (généralement [Licence GNU GPL](https://www.gnu.org/licenses/licenses.en.html#GPL), mais chaque dépôt peut spécifier sa propre licence). Consultez la documentation de chaque dépôt pour connaître les détails.
 
 ## Rejoindre la communauté
-
 Nous sommes impatients de vous voir rejoindre notre communauté de contributeurs ! Si vous souhaitez rester informé des dernières mises à jour, participer aux discussions, ou proposer de nouvelles contributions, suivez-nous sur GitHub et rejoignez notre espace de collaboration.
 
----
